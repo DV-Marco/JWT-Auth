@@ -1,0 +1,10 @@
+node_modules/
+*.wt
+*.turtle
+*.lock
+*.bson
+journal/
+diagnostic.data/
+.idea/
+WiredTiger
+package-lock.json
